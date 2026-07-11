@@ -1,0 +1,216 @@
+<html>
+
+<head>
+
+<title>GTS Research  ·  iTrade · Commodity Futures & Options Trading · Quotes, Charts, News & Analysis</title>
+
+</head>
+
+<body background="white_ro.jpg" bgproperties="fixed">
+
+<center>
+
+<!-- banner and menue/links -->
+
+<table width="900" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td bgcolor="#000000">
+      <table width="490" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td valign="bottom">	
+            <font size="7" color="#fdf5e6">&nbsp;&nbsp;&nbsp;&nbsp;<b>gts<font color="#c0c0c0">research.net</font></b></font><br>
+          </td>
+        <tr>
+          <td valign="top">
+            <font size="4" color="#deb887">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><b>Integral Trading</b></i></font>
+            <br>&nbsp;
+          </td>
+        </tr>
+      </table>       
+    </td>
+    <td bgcolor="#000000">
+      <table width="410" border="0 cellpadding="0" cellspacing="0">
+        <tr>
+          <td align="center">
+            <img src="flagusa.gif" height="20"><br>
+            <iframe src="http://free.timeanddate.com/clock/i285nsx4/n64/fn14/fs14/fcfff/tc000/pct/ts1" frameborder="0" width="79" height="20" allowTransparency="true"></iframe><br>
+            <font color="#c0c0c0"><b><small>Chicago</small></b></font>
+          </td>
+          <td align="center">
+            <img src="flagbraz.gif" height="20"><br>
+            <iframe src="http://free.timeanddate.com/clock/i285nsx4/n233/fn14/fs14/fc9f9/tc000/pct/ts1" frameborder="0" width="79" height="20" allowTransparency="true"></iframe><br>
+	    <font color="#c0c0c0"><b><small>Sao Paulo</small></b></font>
+          </td>
+          <td align="center">
+            <img src="franceE_3.gif" height="20"><br>
+            <iframe src="http://free.timeanddate.com/clock/i285nsx4/n195/fn14/fs14/fc09f/tc000/pct/ts1" frameborder="0" width="79" height="20" allowTransparency="true"></iframe><br>
+            <font color="#c0c0c0"><b><small>Paris</small></b></font>
+          </td>
+          <td align="center">
+            <img src="indiaC.gif" height="20"><br>
+            <iframe src="http://free.timeanddate.com/clock/i285nsx4/n44/fn14/fs14/fcf90/tc000/pct/ts1" frameborder="0" width="79" height="20" allowTransparency="true"></iframe><br>
+	    <font color="#c0c0c0"><b><small>Mumbai</small></b></font>
+          </td>
+          <td align="center">
+            <img src="flagchin.gif" height="20"><br>
+            <iframe src="http://free.timeanddate.com/clock/i285nsx4/n102/fn14/fs14/fcf30/tc000/pct/ts1" frameborder="0" width="79" height="20" allowTransparency="true"></iframe><br>
+	    <font color="#c0c0c0"><b><small>Hong Kong</small></b></font>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+<!--
+  <tr>
+    <td colspan="2" align="left" bgcolor="#ffffff">
+      <font size="3"><b>&nbsp;
+        <a href="http://gtsresearch.net/index.html">Home</a>&nbsp;&nbsp;|&nbsp;
+        <a href="http://gtsresearch.net/itrade.html">iTrade</b><font face="arial">&trade;</font><b></a>&nbsp;&nbsp;|&nbsp;
+        <a href="http://gtsresearch.net/ibnet.html">Brokers</a>&nbsp;&nbsp;|&nbsp;
+        <a href="http://gtsresearch.net/modifier.html">Risk</a>&nbsp;&nbsp;|&nbsp;
+        <a href="http://gtsresearch.net/quotes.html">Quotes</a>&nbsp;&nbsp;|&nbsp;
+        <a href="http://gtsresearch.net/blog.html">Blog</a>&nbsp;&nbsp;
+      </b></font>
+    </td>
+  </tr>
+-->
+</table>
+
+<!-- Body after banner -->
+
+<table width="900" bgcolor="#f5f3e7" border="1">
+  <tr>
+    <td>
+      <center><br>
+      <table width="700" border="0">
+        <tr>
+          <td align="center" width="350">
+            <font size=5 color="#8b0000"><b>Greg Smith</b></font><br><br>
+            <font size=4><b>Gregory Timothy Smith, Sr.</b></font><br><br>
+            <font size=4><a href="http://gtsresearch.net" target="_blank">http://gtsresearch.net</a></font><br><br>
+            <font size=2>53 W. Jackson Blvd., Suite 750, Chicago, IL  60606<br><br>
+            <font size=2>Mobile&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chicago</font><br>
+            <font size=3>312.970.1245&nbsp;&nbsp; · &nbsp;&nbsp;312.285.0479</font><br>
+          </td>
+          <td align="center" width="180">
+            <IMG SRC="gts-Jun2010.jpg" border="1" width="140" onmousedown="alert('Please do not remove images.');">
+          </td>
+          <td align="center" width="170">
+            <script type="text/javascript" src="http://www.skypeassets.com/i/scom/js/skype-uri.js"></script>
+            <div id="SkypeButton_Call_gtsresearch_1">
+             <script type="text/javascript">
+              Skype.ui({
+              "name": "call",
+              "element": "SkypeButton_Call_gtsresearch_1",
+              "participants": ["gtsresearch"],
+              "imageSize": 32
+              });
+             </script>
+            </div>
+            <font size=2>business</font><br>
+            <font size=3><a href="mailto:gts@gtsresearch.net">gts@gtsresearch.net</a></font><br>
+            <font size=2>academic</font><br>
+            <font size=3><a href="mailto:gsmith25@niu.edu">gsmith25@niu.edu</a></font><br>
+          </td>
+        </tr>
+      </table>
+      <br>
+      <font size=5 color="999999"><b>Curricula Vitae:</b></font><br><br>
+      <table width="700" border="0">
+        <tr>
+          <td>
+            <H3>Computer Software Engineering <font color="#cacaca" size="3">~(1993 to Present)</font></H3>
+            <UL>
+              <LI><I>GTS Research</I>, Chicago, IL -- President</li>
+              <LI><I>LFG, Llc. (Refco)</I>, Chicago, IL -- Product Manager, Real-Time Internet Trading Platforms</li>
+              <LI><I>Smith and Smith Risk Control</I>, Chicago, IL -- Partner</li>
+            </UL>
+            <H3>Derivatives: Futures and Options <font color="#cacaca" size="3">~(1979 to Present)</font></H3>
+            <UL>
+              <LI><I>International Monetary Market, Chicago Mercantile Exchange (CME)</I> -- Member, Trader</li>
+              <LI><I>ContiCommodities</I>, Chicago, IL -- CME Floor Manager, Trader, Broker</li>
+              <LI><I>Merrill Lynch Capital Markets</I>, New York, NY -- CME Floor Trader, Broker</li>
+              <LI><I>Discount Corporation of New York, Futures</I>, New York, NY -- CME Floor Broker</li>
+              <LI><I>Thompson McKinnon Securities</I>, New York, NY -- CME Floor Manager, Broker</li>
+              <LI><I>Greenwich Capital Markets</I>, Greenwich, CT -- VP, CME Floor Manager, Broker</li>
+              <LI><I>ING/Quantum Financial Services</I>, Chicago, IL -- VP, Broker - Institutional Sales</li>
+              <LI><I>MF Global - Legal</I>, Chicago, IL -- Expert Witness (Options on Futures)</li>
+            </UL>
+            <H3>Banking <font color="#cacaca" size="3">~(1969 to 1978)</font></H3>
+            <UL>
+              <LI><I>Northern Trust Bank</I>, Chicago, IL -- AVP, Financial Planning</li>
+              <LI><I>Oak Park Trust & Savings Bank; Oak Park Bancorp</I>, Oak Park, IL -- VP, CFO, Treasurer</li>
+            </UL>
+            <H3>Military <font color="#cacaca" size="3">~(1965 to 1968)</font></H3>
+            <UL>
+              <LI><I>United States Army</I> -- Captain · MOS: 1193, Field Artillery Unit Commander</li>
+              <LI>Combat: Vietnam, 2/94 FA (175mm) · I Corps, OPCON 3rd Marine Division</li>
+            </UL>
+            <H3>Academic</H3>
+            <UL>
+              <LI><I>Glenbard West High School</I>, Glen Ellyn, IL</LI>
+              <LI><I>Carroll University</I>, Waukesha, WI -- Music</li>
+              <LI><I>U.S. Army Officer Candidate School</I>, Fort Sill, OK -- <b>Commissioned</b>: Lieutenant, Artillery</li>
+              <LI><I>College of DuPage</I>, Glen Ellyn, IL -- Economics</LI>
+              <LI><I>Illinois Institute of Technology</I>, Chicago, IL -- Mathematics</li>
+              <LI><I>Columbia University</I>, New York, NY -- <b>Certificate</b>: Arden House Executive Program</li>
+              <LI><I>University of Illinois</I>, Chicago, IL  -- <b>BA</b>, Liberal Arts and Sciences · Major: Global History</li>
+              <LI><I>Northern Illinois University</I>, DeKalb, IL -- <b>MA</b>, U.S. History</li>
+            </UL>
+            <H3>Associations</H3>
+            <UL>
+              <LI><I>American Historical Association</I> -- Member</li>
+              <LI><I>Commodity Futures Trading Commission (CFTC)</I> -- Associated Person (AP)</li>
+              <LI><I>Field Artillery Association (U.S. Army)</I> -- Member</li>
+              <LI><I>National Futures Association (NFA)</I> -- AP</li>
+              <LI><I>Organization of American Historians</I> -- Member</li>
+              <LI><I>University of Illinois Alumni Association</I> -- Sustaining Member</li>
+            </UL>
+            <H3>Languages</H3>
+            <UL>
+              <LI>English (N), Latin, French, Spanish</li>
+              <LI>Computer Programming: C, VB, HTML, XML, JavaScript</li>
+            </UL>
+            <H3>Other</H3>
+            <UL>
+              <LI>Pianist, Composer</li>
+              <LI>Marathon Runner: Boston (2), New York City, Chicago (4), Houston</li>
+              <LI>Baseball Coach: Final Four, National AAU Junior Olympics</li>
+            </UL>
+          </td>
+        <tr>    
+      </table>
+    </td>
+  </tr>
+</table>
+<table width="900">
+  <tr>
+    <td>
+      <font size="2">&copy; 2015, GTS Research</font>
+    </td>
+  </tr>
+</table>
+
+<!-- Start of StatCounter Code for Default Guide
+
+<script type="text/javascript">
+var sc_project=9829961; 
+var sc_invisible=0; 
+var sc_security="add41d1a"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="web counter"
+href="http://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="http://c.statcounter.com/9829961/0/add41d1a/0/"
+alt="web counter"></a></div></noscript>
+
+End of StatCounter Code for Default Guide -->
+
+</center>
+</BODY>
+</HTML>
