@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" role="img" aria-labelledby="title">
+  <title id="title">Brazil flag</title>
+  <rect width="1000" height="700" fill="#009b3a"/>
+  <path d="M500 85l385 265-385 265-385-265z" fill="#ffdf00"/>
+  <circle cx="500" cy="350" r="175" fill="#002776"/>
+  <path d="M329 319c112-38 250-30 361 56" fill="none" stroke="#fff" stroke-width="34"/>
+</svg>

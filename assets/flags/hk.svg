@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-labelledby="title">
+  <title id="title">Hong Kong flag</title>
+  <rect width="900" height="600" fill="#de2910"/>
+  <g fill="#fff" transform="translate(450 300)">
+    <path id="petal" d="M0-145c35 34 49 76 39 117C30 12-2 36-46 49c17-43 15-84-5-122-19-36-2-62 51-72z"/>
+    <use href="#petal" transform="rotate(72)"/>
+    <use href="#petal" transform="rotate(144)"/>
+    <use href="#petal" transform="rotate(216)"/>
+    <use href="#petal" transform="rotate(288)"/>
+  </g>
+</svg>
